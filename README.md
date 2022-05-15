@@ -1,3 +1,2 @@
 # Trabajo1
-xd
-eyyyyyyy
+Primer pagina realizada para el segundo taller
